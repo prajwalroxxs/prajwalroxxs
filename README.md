@@ -16,13 +16,6 @@ From crafting interactive voice assistants to deploying deep learning models, I 
 
 ---
 
-### 🧩 Current Focus
-- Implementing **Deep Q-Learning** and advanced RL techniques  
-- Researching **GAN-based data generation** for AI fairness  
-- Building web-based tools with **React**, **Streamlit**, and **FastAPI**
-
----
-
 ### 🛠️ Tech Stack
 `Python` · `TensorFlow` · `PyTorch` · `FastAPI` · `MongoDB`  
 `React` · `Streamlit` · `MediaPipe` · `OpenCV` · `Scikit-learn`
